@@ -1,0 +1,9 @@
+{
+	"name": "adf-lreddy-demo-01",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4b150f18-7e3f-43a2-aea5-c9fcfeea42b6",
+		"tenantId": "704d822c-358a-4784-9a16-49e20b75f941"
+	}
+}
